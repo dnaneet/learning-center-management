@@ -8,3 +8,6 @@ main2.sh is the main script and calls 24.sh in an "infinite loop" until SIGINT.
 
 **SIGINT and Password to quit program**
 The SIGINT command for this program is ctrl+g.  The password to quit the program is "fie2018" without the quotes.  This passworkd may be changed inside the file main2.sh
+
+**Branches**
+The branch dnaneet-incomplete is still in development! DO NOT USE!
